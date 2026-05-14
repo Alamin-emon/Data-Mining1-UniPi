@@ -1,75 +1,74 @@
 # 📘 Board Games Dataset – Data Mining Project
 
----
+Project for the Data Mining course @ [University of Pisa](https://www.unipi.it/index.php/english)
 
-## 👤 Author
-- **MD AL AMIN**
+<img src="unipi_logo.png" align="middle" alt="Unipi logo" width="170">
 
----
 
-## 📌 Project Overview
+## 👤 Authors
 
-This project is focused on data mining analysis using the **Board Games Dataset**. The dataset contains detailed information about various board games such as ratings, complexity, categories, and user engagement.
-
-The main goal is to explore the dataset, extract meaningful insights, and apply machine learning techniques for clustering and prediction.
+- [MD AL AMIN](https://github.com/)
+- Sagor Howlader  
+- Halima Akther Rabsha  
 
 ---
 
-## 📊 Tasks
+## 📌 Abstract
 
-### 🔹 Task 1: Data Understanding and Preparation
-- Explore dataset structure
-- Analyze data quality and missing values
-- Study feature distributions
-- Perform data cleaning and preprocessing
-- Create new useful features
+This Data Mining project is carried out on the **Board Games Dataset**, which contains information about board games such as ratings, complexity, categories, and user engagement.
+
+The project focuses on applying data mining techniques to analyze, model, and extract meaningful insights from the dataset. The work is divided into four main tasks:
 
 ---
 
-### 🔹 Task 2: Clustering Analysis
-- Apply clustering algorithms on board games
-- Group similar games based on features
-- Analyze cluster patterns
-- Compare different clustering methods
+### 📊 Task 1: Data Understanding and Preparation
+
+> **Task 1.1: Data Understanding**  
+Explore the dataset using analytical tools. Evaluate data quality, distribution of variables, correlations, and feature behavior.
+
+> **Task 1.2: Data Preparation**  
+Improve data quality by handling missing values, removing outliers, and creating new features to better describe board game characteristics and user engagement.
 
 ---
 
-### 🔹 Task 3: Predictive Analysis
-- Predict board game rating or popularity
-- Apply machine learning models
-- Evaluate model performance using metrics:
-  - Accuracy
-  - RMSE / MAE
-  - F1-score
+### 📊 Task 2: Clustering Analysis
+
+Based on board game features, apply clustering techniques to group similar games together.  
+Different clustering algorithms are tested and compared to identify meaningful patterns in the dataset.
 
 ---
 
-### 🔹 Task 4: Data Visualization & Insights
-- Analyze trends in board games
-- Study relationships between features
-- Visualize data using graphs and plots
-- Identify top categories and popular games
+### 🤖 Task 3: Predictive Analysis
+
+Develop machine learning models to predict board game properties such as rating or popularity.  
+Classification and regression techniques are applied and evaluated using standard performance metrics.
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+### 🔗 Task 4: Pattern Mining Analysis
+
+Apply pattern mining techniques (such as FP-Growth and association rules) to discover relationships between features like genre, playtime, complexity, and ratings.
 
 ---
 
-## 📁 Project Structure
+## 🧠 Key Objectives
 
-```text
-board-games-project/
-│
-├── data/
-├── notebooks/
-├── src/
-├── README.md
-└── requirements.txt
+- Understand dataset structure and quality  
+- Extract meaningful features  
+- Apply clustering techniques  
+- Build predictive models  
+- Discover hidden patterns in board games  
+
+---
+
+## 🛠️ Tools Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
